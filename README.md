@@ -113,3 +113,6 @@ Feel free to improve the model by:
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# CODSOFT3
+>>>>>>> 0f2275cec094864b51fd8e6b24cb677a411a74e1
